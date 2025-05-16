@@ -23,6 +23,13 @@ import {
   jobit,
   tripguide,
   threejs,
+  appwrite,
+  firebase,
+  azios,
+  Express,
+  GitHub,
+  Python,
+  cloudinary,
 } from "../assets";
 
 export const navLinks = [
@@ -96,22 +103,50 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
     name: "git",
     icon: git,
   },
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
   {
-    name: "figma",
-    icon: figma,
+    name: "Python",
+    icon: Python,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Appwrite",
+    icon: appwrite,
   },
+  {
+    name: "Firebase",
+    icon: firebase,
+  },
+  {
+    name: "Azios",
+    icon: azios
+  },
+  {
+    name: "Express",
+    icon: Express
+  },
+  {
+    name: "Cloudinary",
+    icon: cloudinary
+  },
+  {
+    name: "Github",
+    icon: GitHub
+  }
 ];
 
 const experiences = [
