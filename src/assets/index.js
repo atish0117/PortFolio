@@ -20,6 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import appwrite from "./tech/appwrite.png";
+import Azios from "./tech/Azios.png"; 
+import cloudinary from "./tech/cloudinary.svg";
+import express from "./tech/express.png";
+import firebase from "./tech/firebase.png";
+import GitHub from "./tech/GitHub.png";
+import Python from "./tech/Python.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -59,4 +66,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  appwrite,
+  Azios,
+  cloudinary,
+  express,
+  firebase,
+  GitHub,
+  Python,
 };

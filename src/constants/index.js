@@ -25,8 +25,8 @@ import {
   threejs,
   appwrite,
   firebase,
-  azios,
-  Express,
+  Azios,
+  express,
   GitHub,
   Python,
   cloudinary,
@@ -79,10 +79,7 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+
   {
     name: "React JS",
     icon: reactjs,
@@ -123,30 +120,23 @@ const technologies = [
     name: "Python",
     icon: Python,
   },
-  {
-    name: "Appwrite",
-    icon: appwrite,
-  },
+  // {
+  //   name: "Appwrite",
+  //   icon: appwrite,
+  // },
   {
     name: "Firebase",
     icon: firebase,
   },
   {
     name: "Azios",
-    icon: azios
+    icon: Azios
   },
   {
     name: "Express",
-    icon: Express
+    icon: express
   },
-  {
-    name: "Cloudinary",
-    icon: cloudinary
-  },
-  {
-    name: "Github",
-    icon: GitHub
-  }
+
 ];
 
 const experiences = [
